@@ -1,2 +1,2 @@
 # hello-world
-repository guide
+This is a repository guide. 
